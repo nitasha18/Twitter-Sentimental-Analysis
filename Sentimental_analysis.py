@@ -13,6 +13,7 @@ ACC_TOKEN=''
 ACC_SECRET=''
 CONS_KEY=''
 CONS_SECRET=''
+
 pos = 0  # total positive tweets count
 neg = 0  # total negative tweets count
 neut = 0  # total neutral tweets count
